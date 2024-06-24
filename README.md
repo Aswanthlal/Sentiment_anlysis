@@ -1,3 +1,3 @@
 # Sentiment_anlysis
 
-Sentiment analysis usind Flipkart data
+Sentiment analysis using Flipkart product review data
